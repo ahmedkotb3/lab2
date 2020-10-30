@@ -6,11 +6,12 @@ Footbar is a Python library for dealing with word pluralization
 
 use the package manger 
 
-> pip [mip](https://www.mip.com/)install footbar
+> pip [mip](https://www.mip.com/) install footbar
 
-##Usage 
+## Usage 
 
 > import footbar
 >
 > footbar.pluralize('word') #returns 'word'
+>
 > footbar.pluralize('goose') #returns 'geese' 
