@@ -17,5 +17,4 @@ use the package manger
 > footbar.pluralize('goose') #returns 'geese'
 
 
-![]
-(https://github.com/ahmedkotb3/lab2/blob/main/images/git.jpg) 
+![](https://github.com/ahmedkotb3/lab2/blob/main/images/git.jpg) 
